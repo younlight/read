@@ -1,25 +1,29 @@
 # 【優惠、折價券】台灣樂天市場
 ## 優惠
 
-|優惠|期限|
-|-|-|
-|[樂天書城超取299免運](https://www.rakuten.com.tw/event/books/books180601/)|2018年6月30日
+|優惠|期限||
+|-|-|-
+|[樂天雙11](https://www.rakuten.com.tw/event/double11/)|2018年11月11日
+|[天天早上11點搶5折優惠券](https://www.rakuten.com.tw/event/brandzone/brandzone181101/#event-info)|2018年11月11日|指定店家購物單筆滿5000享88折，最高折1000，每天限量20組
+|[天天晚上11點搶88折優惠券](https://www.rakuten.com.tw/event/brandzone/brandzone181101/#event-info)|2018年11月11日|指定店家購物單筆滿600享5折，最高折300，每天限量50組
+|[指定卡友滿額再賺刷卡金](https://www.rakuten.com.tw/event/double11/#event_info3)|2018年11月12日（0959）
+|[APP下單滿額送限量2019年樂天胖達桌](https://www.rakuten.com.tw/sns/panda/2019calendar/)|2018年11月12日（0959）
 
 ## RSP
 
 |RSP|期限|
 |-|-|
-|[滿$3000享10%限期點數回饋！](https://www.rakuten.com.tw/event/anniversary/?scid=REdm-180503b-Event1#point)|2018年6月30日
+|[指定店累計購物滿1000元（含）以上送120點、滿3500送400點限期超級點數](https://www.rakuten.com.tw/event/brandzone/brandzone181101/#event-info_02)|2018年11月12日（0959）
 
 ## Coupon
 
 |Coupon|門檻|期限|
 |-|-|-|
-|ETZM-PP5U-5GTM-NSZQ|樂天書城滿800折100（可重覆使用）|2018年6月30日
-|WBAG-S8YL-PS75-7XHI|[書城滿1200折150（限用一次）](https://www.rakuten.com.tw/shop/rbook/)|2018年6月30日
-|18June50a|[滿500折50](https://www.rakuten.com.tw/event/member/member180601/)|2018年6月30日
-|18June50b|滿500折50|2018年6月30日
-|18June100|APP滿1000折100|2018年6月30日
+|NEWBOOK11|[樂天書城新會員滿299折40](https://www.rakuten.com.tw/shop/rbook/)|2018年11月30日
+|4SYY-HX6J-VEPG-OVRK|[樂天書城加碼95折](https://www.rakuten.com.tw/shop/rbook/)|2018年11月11日
+|[APP](https://www.rakuten.com.tw/event/double11/#event_info1)|不含指定店家滿800折111|2018年11月11日
+|[每日於活動頁領取優惠券](https://www.rakuten.com.tw/event/double11/#event_info4)|不含指定店家滿11111現折1111|2018年11月11日
+|[每日於活動頁領取優惠券](https://www.rakuten.com.tw/coupon/#index-bn_1111)|letsfallinluv，不含指定店家APP深夜整點加碼11折優惠券，最高折1111元|2018年11月11日
 
 ## 代購單
 代購可享1%折扣
