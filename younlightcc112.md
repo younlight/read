@@ -11,7 +11,7 @@
 |-|-|-|
 |RSF1812|[新會員滿499折60](https://www.rakuten.com.tw/)|2018年12月31日
 |18Dec100|[APP滿1000折100](https://www.rakuten.com.tw/coupon/#index-bn_0101)|2018年12月31日
-|0D2E-TSJF-GEFH-4OGW|[書城滿1000打9折]（https://www.rakuten.com.tw/event/books/books181201/）|2018年12月19日
+|0D2E-TSJF-GEFH-4OGW|[書城滿1000打9折](https://www.rakuten.com.tw/event/books/books181201/)|2018年12月19日
 
 ## 代購單
 代購可享1%折扣
