@@ -3,27 +3,15 @@
 
 |優惠|期限||
 |-|-|-
-|[樂天雙11](https://www.rakuten.com.tw/event/double11/)|2018年11月11日
-|[天天早上11點搶5折優惠券](https://www.rakuten.com.tw/event/brandzone/brandzone181101/#event-info)|2018年11月11日|指定店家購物單筆滿5000享88折，最高折1000，每天限量20組
-|[天天晚上11點搶88折優惠券](https://www.rakuten.com.tw/event/brandzone/brandzone181101/#event-info)|2018年11月11日|指定店家購物單筆滿600享5折，最高折300，每天限量50組
-|[指定卡友滿額再賺刷卡金](https://www.rakuten.com.tw/event/double11/#event_info3)|2018年11月12日（0959）
-|[APP下單滿額送限量2019年樂天胖達桌](https://www.rakuten.com.tw/sns/panda/2019calendar/)|2018年11月12日（0959）
-
-## RSP
-
-|RSP|期限|
-|-|-|
-|[指定店累計購物滿1000元（含）以上送120點、滿3500送400點限期超級點數](https://www.rakuten.com.tw/event/brandzone/brandzone181101/#event-info_02)|2018年11月12日（0959）
+|[書城99免運](https://www.rakuten.com.tw/event/books/books181201/)|2018年12月31日
 
 ## Coupon
 
 |Coupon|門檻|期限|
 |-|-|-|
-|NEWBOOK11|[樂天書城新會員滿299折40](https://www.rakuten.com.tw/shop/rbook/)|2018年11月30日
-|4SYY-HX6J-VEPG-OVRK|[樂天書城加碼95折](https://www.rakuten.com.tw/shop/rbook/)|2018年11月11日
-|[APP](https://www.rakuten.com.tw/event/double11/#event_info1)|不含指定店家滿800折111|2018年11月11日
-|[每日於活動頁領取優惠券](https://www.rakuten.com.tw/event/double11/#event_info4)|不含指定店家滿11111現折1111|2018年11月11日
-|[每日於活動頁領取優惠券](https://www.rakuten.com.tw/coupon/#index-bn_1111)|letsfallinluv，不含指定店家APP深夜整點加碼11折優惠券，最高折1111元|2018年11月11日
+|RSF1812|[新會員滿499折60](https://www.rakuten.com.tw/)|2018年12月31日
+|18Dec100|[APP滿1000折100](https://www.rakuten.com.tw/coupon/#index-bn_0101)|2018年12月31日
+|0D2E-TSJF-GEFH-4OGW|[書城滿1000打9折]（https://www.rakuten.com.tw/event/books/books181201/）|2018年12月19日
 
 ## 代購單
 代購可享1%折扣
