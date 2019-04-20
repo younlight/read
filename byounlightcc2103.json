@@ -1,0 +1,1 @@
+{"price":120,"fare":0,"costs":"parseInt(n/3)*240+n%3*120"}
